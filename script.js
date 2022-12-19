@@ -318,6 +318,8 @@ let js = 'amazing';
       }else{
             console.log('Sorme rlse should dribe...');
       }
+
+     
       
 /////////// Coading c-3 ///////////
 /////video 20
@@ -349,37 +351,38 @@ let js = 'amazing';
       }else{
             console.log('No one wins the trophy (:')
       }
-      */
+       */
+      
 
-      // video 21/////
+      //video 21/////
 
-      // const day = 'monday'
+      const day = 'monday'
 
-      // switch(day) {
-      //       case 'monday': // day === 'monday'
-      //       console.log('Plan Course Structure');
-      //       console.log('Go to coading meetup');
-      //       break;
-      //       case 'tuesday': 
-      //       console.log('Prepare theory videos');
-      //       break;
-      //       case 'wednesday':
-      //       case 'thurasday':
-      //             console.log('Write coad example');
-      //             break;
-      //             case 'friday':
-      //                   console.log('Recording day');
-      //                   break;
-      //                   case 'saturday':
-      //                         case 'sunday':
-      //                               console.log('Enjoy the weekrnd : D');
-      //                               break;
-      //                               default:
-      //                               console.log('Not a valod day!');
+      switch(day) {
+            case 'monday': // day === 'monday'
+            console.log('Plan Course Structure');
+            console.log('Go to coading meetup');
+            break;
+            case 'tuesday': 
+            console.log('Prepare theory videos');
+            break;
+            case 'wednesday':
+            case 'thurasday':
+                  console.log('Write coad example');
+                  break;
+                  case 'friday':
+                        console.log('Recording day');
+                        break;
+                        case 'saturday':
+                              case 'sunday':
+                                    console.log('Enjoy the weekrnd : D');
+                                    break;
+                                    default:
+                                    console.log('Not a valod day!');
 
-      // }
+      }
 
-////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
 
       // const day = 'monday'
 
@@ -405,11 +408,11 @@ let js = 'amazing';
       //                               default:
       //                               console.log('Not a valod day!');
 
-      // }
+      //}
       
       ////////////////////////////////////////////////////////
 
-      const day = 'saturday'
+      const day = 'monday'
 
       switch(day) {
             case 'monday': // day === 'monday'
@@ -456,3 +459,66 @@ let js = 'amazing';
       }else {
             console.log('Not a valod day!');
       }
+
+     
+      
+    /////22 no vdo //////////
+
+      3 + 4
+      1991
+      true && false && !false
+
+      if (23 > 10){
+            const str = '23 is bigger';
+      }
+
+      const me = 'Himel';
+      console.log(`I am ${2037 - 1991} year old ${me}`)
+
+      // video 23 ///
+
+      // const age = 15;
+      // age >= 18 ? console.log('I loke to drink wine :)'):
+      // console.log('I loke to drink with water :)')
+
+      const age = 15;
+      // age >= 18 ? console.log('I loke to drink wine :)'):
+      // console.log('I loke to drink with water :)');
+
+      const drink = age >= 18 ? 'wine' : 'water';
+      console.log (drink);
+      
+      let drink2;
+      if (age >= 18){
+            drink2 = 'wine:)'
+      }else{
+            drink2 = 'water'
+      }
+      console.log(drink2)
+
+      console.log(`I like to drink ${age >= 18 ? 'wine' : 'water'}`);
+
+      /// Video no 24//////
+      ////////coading challenge 04
+
+      // const bill = 275;
+      // const tip = bill <= 300 && bill >= 50 ? bill * 0.15 : 
+      // bill * 0.2
+      // console.log(`the boll was ${bill}, the tip was 4{tip}, and the total value $ {bil}`)
+
+
+      // const bill = 40;
+      // const tip = bill <= 300 && bill >= 50 ? bill * 0.15 : 
+      // bill * 0.2
+      // console.log(`The boll was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`)
+
+       
+
+      const bill = 430;
+      const tip = bill <= 300 && bill >= 50 ? bill * 0.15 : bill * 0.2;
+      console.log(`the boll was ${bill}, the tip was ${tip}, and the total value ${bill + tip}`);
+      
+
+      
+
+      
